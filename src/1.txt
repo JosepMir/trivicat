@@ -1,0 +1,39 @@
+1#Quina és la capital de Sardenya?ºCàllerºAjaccioºSasserºOlbior
+2#Quina d'aquestes muntanyes no pertany als "set cims"?ºK2ºAconcaguaºMcKinleyºKilimanjaro
+3#Quina és la muntanya més alta del continent europeu?ºElbrúsºMont BlancºAnetoºK2
+4#Com s'anomena el microestat no reconegut per l'ONU situat prop de la costa anglesa en una plataforma de la Segona Guerra Mundial?ºSealandºPlatformºSea KingdomºFormentera
+5#Quina és la capital de la comarca de la Conca de Barberà?ºMontblancºL'Espluga de FrancolíºReusºBarberà del Vallès
+6#Quina és la ciutat més poblada del sud d'Itàlia?ºNàpolsºPalermºBariºFrankfurt
+7#Per quin exèrcit està ocupada parcialment l'illa de Xipre?ºTurcºGrecºEstatunidencºIsraelià
+8#A quina ciutat es troba la seu central de l'ONU?ºNova YorkºGinebraºBrusel·lesºAddis Ababa
+9#Quines illes són les Pitiüses?ºEivissa i FormenteraºMenorca i MallorcaºMenorca, Eivissa i FormenteraºCòrsega i Sardenya
+10#Quina és la ciutat més poblada del País Valencià després de València i Alacant?ºElxºCastelló de la PlanaºAlcoiºAmposta
+11#Quantes illes té la república insular d'Indonèsia?º18108º16º254º1446
+12#A quina zona es parla la llengua derivada del neerlandès anomenada afrikaans?ºAl sud d'ÀfricaºA HolandaºA BèlgicaºA l'illa caribenya d'Aruba
+13#Quin és el poble més petit de Catalunya?ºSant Jaume de FrontanyàºMatadeperaºLa VajolºSant Quintí de Montclar
+14#Quin accident geogràfic és el límit de Sibèria a l'oest?ºLa serralada dels UralsºL'Oceà ÀrticºEl Mar NegreºEl Mar Caspi
+15#On es troba el palau d'Ajuria Enea, seu del Govern Basc?ºVitòriaºBilbaoºSant SebastiàºPamplona
+16#Quina és la capital de la comarca del Pallars Sobirà?ºSortºTrempºPuigcerdàºVielha
+17#Quin és el riu més llarg d'Europa?ºVolgaºDanubiºMoldavaºEbre
+18#Quin és el país més ric del món?ºSuïssaºNoruegaºJapóºAlemanya
+19#A la moneda de 2 eur italiana hi surt...ºDante AlighieriºJuli CèsarºAdriàºUn edifici
+20#A la moneda de 2 eur finlandesa hi surt...ºUna florºUn arbreºUn edificiºUna arpa
+21#Sofia és capital de...ºBulgàriaºRomaniaºGrèciaºEslovènia
+22#Al limit de quines comarques està situat el massís del Montseny?ºVallès Oriental, La Selva i OsonaºBages i Vallès Occidental i OrientalºGironès, Osona i La SelvaºSegrià, Baix Ebre i Garrotxa
+23#Quin és el país més poblat del planeta després de la Xina?ºÍndiaºPakistanºEstats Units d'AmèricaºRússia
+24#Quins dos estats comparteixen el territori de l'arxipèlag anomenat Terra del Foc?ºXile i ArgentinaºUruguai i ArgentinaºBrasil i XileºSud-àfrica i Argentina
+25#Els Països Catalans es diu que van de Fraga a Maó i...ºDe Salses a GuardamarºDe Perpinyà a AlacantºDe Ribesaltes a OriolaºD'Andorra la Vella a Benidorm
+26#Quants municipis té Catalunya?º946º235º76º465
+27#Municipi més septentrional de CatalunyaºCanejarºLlíviaºPortbouºTavascan
+28#Municipi més meridional de CatalunyaºAlcanarºGandesaºMas de BarberansºRoquetes
+29#A quina comarca està realment Ventdelplà?ºLa SelvaºOsonaºVallès OrientalºBages
+30#Quin país és el major productor de carbó del món?ºXinaºSudàfricaºAlemanyaºRússia
+31#Pertany a FinlàndiaºIlles FèroeºIlla de ManºIlla de GuernseyºIslàndia
+32#A quin estat pertany Grenlàndia?ºDinamarcaºNoruegaºSuèciaºFinlàndia
+33#Liechtenstein és fronterer ambºÀustria i SuïssaºBèlgica, Alemanya i FrançaºAlemanya i FrançaºGrècia i Turquia
+34#El parlament europeu es troba aºEstrasburgºBrussel·lesºLuxemburgºParís
+35#Quina és la capital del tarragonès?ºTarragonaºReusºCambrilsºCalafell
+36#A què deu el nom la República Democràtica del Congo?ºAl riu CongoºA la serralada del CongoºAl llac CongoºAl rei Congo IV
+37#Quina és la capital política de la xina?ºBeijingºShangaiºXianºLhasa
+38#Quin és el segon país més gran del món en extensió després de Russia?ºCanadàºXinaºEUAºAndorra
+39#

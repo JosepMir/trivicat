@@ -1,0 +1,39 @@
+1#Qui és l'autor de "El perquè de tot plegat"?ºQuim MonzóºSergi PàmiesºPere GimferrerºPaul Auster
+2#A quin municipi del Rosselló està situat el monument anomenat "Porta dels Països Catalans"?ºSalsesºPerpinyàºCotlliureºFigueres
+3#A quina ciutat podriem assistir a una òpera al teatre La Scala?ºMilàºParísºBarcelonaºRoma
+4#On té lloc cada 1 de gener el Concert d'Any Nou més famós del món?ºVienaºMilàºNova YorkºBerlín
+5#Quina ciutat acull el renaixement?ºFlorènciaºVenèciaºParísºNàpols
+6#Qui és l'autor de "Tirant lo Blanc"?ºJoanot MartorellºAusiàs MarchºManuel de PedroloºJacint Verdaguer
+7#De quina ciutat era originari el poeta i dramaturg català Joan Oliver i Sallarès àlies Pere Quart?ºSabadellºBarcelonaºTerrassaºLa Seu d'Urgell
+8#On va néixer el pintor Salvador Dalí?ºFigueresºCadaquésºRosesºPerpinyà
+9#De quina llengua és dialecte l'aranès?ºOccitàºCatalàºBascºFrancès
+10#Quin d'aquests gentilicis és incorrecte per referir-se als habitants de Formentera?ºFormenterinsºFormenterersºFormenterencsºTots
+11#Quina és la tercera llengua amb més parlants del món?ºAnglèsºXinès MandaríºÀrabºCastellà
+12#Com es diu el personatge que crida "He mort el llop!" al final de l'obre teatral Terra Baixa d'Àngel Guimerà?ºManelicºPericºPepºManolo
+13#Qui és l'autor de l'escultura "Dona i ocell"?ºJoan MiróºSalvador DalíºPablo PicassoºAntoni Gaudí
+14#Qui va pintar el famós quadre anomenat "El crit"?ºEdvard MunchºGustav KlimtºMarcel DuchampºLeonardo Da Vinci
+15#Quin nombre de parlants es calcula que té el català aproximadament?º9 milionsº12 milionsº6 milionsº4 milions
+16#Què és un palíndrom?ºUna paraula que llegida dreta-esquerra o esquerra-dreta és igualºEl melindro típic de la vila de PalsºUna paraula amb les mateixes lletres que una altraºNo és res
+17#No és una llengüa eslavaºRomanèsºBielorúsºTxecºPolonès
+18#Com es diu l'amor de Don Quixot?ºDulcineaºPlaerdemavidaºEleonoraºMargarida
+19#Quina és l'única ciutat que visita Don Quixot en tota la novel·la i on recupera el seny?ºBarcelonaºSevillaºValdepeñasºVillarobledo
+20#D'on era l'escriptor i periodista català Josep Pla?ºPalafrugellºPalamósºFigueresºBarcelona
+21#Com s'anomena el primer volum de l'Obra Completa de Josep Pla?ºEl quadern grisºNocturn de primaveraºNotes per un diariºPrimera història d'Esther
+22#Quin monestir no pertany a la ruta del Císter?ºSanta Maria de RipollºSantes CreusºPobletºVallbona de les Monges
+23#Qui és l'autor de 'La Divina Comèdia'?ºDante AlighieriºJames JoyceºFranz KafkaºRamon Llull
+24#De qui és el quadre que presideix els consells executius del Govern de Catalunya?ºTàpiesºMiróºDalíºLlimona
+25#Què significa "ongi etorri"?ºBenvingutºÉs un tipus de boletºUna espècieºUn gintònic
+26#Quina llengua no és indoeuropea?ºEuskeraºGalèsºBretóºCatalà
+27#Quin d'aquests cantautors fou membre dels "Setze Jutges"?ºQuico Pi de la SerraºRamoncínºOvidi MontllorºPep Sala
+28#Qui digué que qualsevol nit pot sortir el sol?ºJaume SisaºAdrià PuntíºLluís LlachºRaimon
+29#El barri més bohemi de ParísºMontmartreºLa banlieueºLa défenseºNeuilly-sur-Seine
+30#Qui és l'autor de l''Art de la guerra'?ºSun TzuºLao TseºConfuciºMaquiavel
+31#Roda el món...ºi torna al Bornºque és on somºsens retornºés igual com
+32#Per la gola, ºfarigolaºcoca-colaºaiga frescaºtot s'hi cola
+33#Moltes lletres i poc suc, ºtambé les escriuria un rucºel geni és eixutºabans d'un estornutºsuc de taronja
+34#Quan la senyora es prepara, ºel rellotge es paraºespera-la 'assentada'ºespera una jornadaºseu
+35#Quin país té el major nombre de parlants de portuguès?ºBrasilºPortugalºAngolaºEstats Units d'Amèrica
+36#Quina proporció aproximada dels habitans del món parla xinès?ºUna cinquena partºLa meitatºUna vuitena partºLa parla tothom al món
+37#Quin tempo és més ràpid?ºPrestissimoºPrestoºAllegrissimoºVivacissimo
+38#Quin tempo és més lent?ºLargamenteºAdagiettoºAllegrettoºGrave
+39#

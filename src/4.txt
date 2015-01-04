@@ -1,0 +1,39 @@
+1#En quin llenguatge de programació està escrit aquest programa?ºJavaºC++ºPascalºC
+2#Què és més gran?ºPetaºGigaºMegaºTera
+3#Què és més petit?ºPicoºMicroºMilliºNano
+4#De quin gas s'omplen els globus perquè levitin?ºHeliºHidrogenºOxigenºXenó
+5#Passar d'estat sòlid a gas sense passar per l'estat líquid.ºSublimacióºOxidacióºEvaporacióºPrecipitació
+6#Quants dies té un any marcià?º687º356º11053º3
+7#Quin d'aquests números no és primer?º21º7º23º13
+8#Què estudia un antropòleg?ºL'ésser humàºEls animalsºVegetalsºEls antres
+9#Quan creixen més ràpid les plantes?ºDe diaºDe nitºIgualºDe 2 a 3 de la nit
+10#Què és un googol?ºUn 1 seguit de 100 zerosº1 a la 128ºLa magnitud que segueix al GigaºLa magnitud que segueix al Tera
+11#Quin arquitecte dissenyà el Palau Sant Jordi de Barcelona?ºArata IzosakiºRicardo BofillºNorman FosterºAntoni Gaudí
+12#Què mesura l'escala de Richter?ºTerratrèmolsºHuracansºVulcansºOnades del mar
+13#Com es denomina la part esquerra d'una embarcació en argot mariner?ºBabordºProaºPopaºEstribord
+14#Com s'anomena la peça que es desplaça per dins del cilindre d'un motor de combustió?ºPistóºBielaºCigonyalºCarburador
+15#Quant és un bilió en el món anglosaxó?ºMil milionsºUn milió de milionsºUn milió de milions de milionsºCent milions
+16#A quins fenòmens meteorològics se'ls bateja amb nom de dona?ºAls huracans sorgits a l'oceà PacíficºAls huracans sorgits a l'oceà AtlànticºAls tornadosºAls tsunamis
+17#El GPS civil té una precisió de...º2-3 metresº10 metresº5 metresº2-3 centímetres
+18#El diferencial de casa vigila les diferències de...ºIntensitatºTensióºPotènciaºEnergia
+19#Qui inventà la impremta?ºJohannes GutenbergºLeonardo da VinciºGalileo GalileiºAldus Manutius
+20#Què passa si poses alcohol al congelador?ºEs refredaºEs congelaºExplotaºRes
+21#Per quin treball Einstein guanyà el premi Nobel?ºEfecte fotoelèctricºTeoria de la relativitat generalºTeoria de la relativitat especialºNo guanyà cap Nobel
+22#No és un gas NobleºHidrogenºHeliºNeóºXenó
+23#La unitat més llarga és...ºMillaºIardaºPeuºQuilòmetre
+24#Quantes unces equivalen a una lliura?º12º10º6º100
+25#Quin d'aquests núvols no és d'origen natural?ºPirocumulusºStratusºAltocumulus LenticularisºMammas
+26#Sistema operatiu open sourceºLinuxºWindowsºMacOSºSymbianOS
+27#L'equivalent open source al Internet ExplorerºFirefoxºThunderbirdºOperaºWord
+28#Per a què serveix el WinZip?ºComprimir arxiusºFer còpies de seguretatºXatejarºBaixar música
+29#El comandament a distància funciona per...ºInfrarojosºUltraviolatsºRadiofreqüènciaºLlum visible
+30#Quants decibels comporten un immediat trencament del teixit auditiu?º185 dBº265 dBº100 dBº120 dB
+31#Principal vitamina de la tarongaºVit CºVit TºVit AºVit B1
+32#Primer home que va caminar per la llunaºNeil ArmstrongºMichael CollinsºYuri Gagarin
+33#Quin constel·lació se la coneix com el 'carro gran'?ºOssa majorºOssa menorºOrióºSagitari
+34#Què significa SOS?ºResºSave Our SoulsºSend Out SomeoneºSinking Our Ship
+35#Quant és, aproximadament, una pinta?º50clº33clº1litreº20cl
+36#Què és l'arrel d'un nombre negatiu?ºUn nombre imaginariºUn nombre naturalºNo existeixºUn nombre maleït
+37#A quant s'aproxima la velocitat de la llum?º300.000 metres/segonº300 metres/segonº3 metres/segonº300.000 kilòmetres/segon
+38#Quants planetes Terra farien falta per igualar el volum del Sol?º1.3 milionsº13.000º130ºLa Terra és més gran que el Sol
+39#
